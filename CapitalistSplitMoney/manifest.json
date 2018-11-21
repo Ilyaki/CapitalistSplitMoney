@@ -6,5 +6,5 @@
    "UniqueID": "Ilyaki.CapitalistSplitMoney",
    "EntryDll": "CapitalistSplitMoney.dll",
    "MinimumApiVersion": "2.7",
-   "UpdateKeys": []
+   "UpdateKeys": [ "GitHub:Ilyaki/CapitalistSplitMoney", "Nexus:3083" ]
 }
